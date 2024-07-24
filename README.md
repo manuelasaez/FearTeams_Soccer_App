@@ -44,4 +44,9 @@ The goal of FearTeams is to:
    - The teams are displayed on the app, and users can download the team compositions as CSV files.
 6. **Visualizations:**
    - The app provides various visualizations to analyze and compare the statistics of the teams.
+## Usage
 
+To use FearTeams, follow these steps:
+
+1. Clone the repository:
+2. streamlit run spliting_teams.py --server.enableXsrfProtection false   
